@@ -1,0 +1,14 @@
+.postCenter{
+    
+    flex: 9;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+}
+.posts{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: flex-start;;
+}
